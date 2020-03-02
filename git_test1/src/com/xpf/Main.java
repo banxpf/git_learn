@@ -12,5 +12,10 @@ public class Main {
         System.out.println("156688");
         System.out.println("156688");
         System.out.println("156688");
+        //hello test
+    }
+
+    public  void test1() {
+        System.out.println("1234565");
     }
 }
